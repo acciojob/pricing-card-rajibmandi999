@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+.cardbody{
+            width: 350px;
+            
+            height: 450px;
+            border-radius: 5px;
+            box-shadow: 5px 5px 10px 0px;
+        }
+        .cardbody img{
+            
+            width: 300px;
+            margin: 25px;
+        }
+        h1{
+            text-align: center;
+        }
+        p{
+            text-align: center;
+            margin: 0 50px;
+        }
+        .btn{
+            margin-top: 20px;
+            margin-left: 140px;
+            padding: 10px;
+            border-radius: 5px;
+            border: none;
+            background-color: crimson;
+            color: white;
+            
+        }
